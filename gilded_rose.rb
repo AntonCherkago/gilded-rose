@@ -2,6 +2,7 @@
 
 class GildedRose
   MAX_NORMAL_QUALITY = 50
+
   def initialize(items)
     @items = items
   end
